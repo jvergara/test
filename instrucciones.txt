@@ -1,0 +1,12 @@
+git clone "nombre_repositorio"
+descarga el proyecto en sistema local
+=================================
+posicionarse en carpeta y
+git status : muestra archivos no sincronizados
+=================================
+git add "nombre archivo" :  sincroniza el
+archivo en forma local a staging area
+================================
+git diff: mustra diferencia entre lo que esta en working directory y staging area
+=========================
+git add . : sube la diferencia a staging area
