@@ -10,3 +10,7 @@ archivo en forma local a staging area
 git diff: mustra diferencia entre lo que esta en working directory y staging area
 =========================
 git add . : sube la diferencia a staging area
+==============
+git commit -m "mensaje de modificacion" : se crea un commit para subir
+========
+git push  enter  luego nombre de usuario y contraseña
